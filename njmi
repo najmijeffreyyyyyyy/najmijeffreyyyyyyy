@@ -33,3 +33,17 @@
         <string>Value</string>
     </dict>
 </array>
+
+
+<dict>
+    <key>Name</key>
+    <string>John Doe</string>
+    <key>Age</key>
+    <integer>30</integer>
+    <key>Hobbies</key>
+    <array>
+        <string>Reading</string>
+        <string>Traveling</string>
+    </array>
+</dict>
+
