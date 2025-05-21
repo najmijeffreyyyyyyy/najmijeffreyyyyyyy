@@ -47,3 +47,12 @@
     </array>
 </dict>
 
+
+
+
+ <dict>
+    <key>Price</key>
+    <real>19.99</real>
+    <key>Quantity</key>
+    <integer>3</integer>
+</dict>
