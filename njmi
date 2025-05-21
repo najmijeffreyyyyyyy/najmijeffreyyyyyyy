@@ -13,3 +13,13 @@
     <string>Value 2</string>
     <integer>3</integer>
 </array>
+
+
+<array>
+    <string>Item 1</string>
+    <integer>2</integer>
+    <dict>
+        <key>Key</key>
+        <string>Value</string>
+    </dict>
+</array>
