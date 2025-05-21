@@ -6,3 +6,10 @@
         <string>ExampleValue</string>
     </dict>
 </plist>
+
+
+<array>
+    <string>Value 1</string>
+    <string>Value 2</string>
+    <integer>3</integer>
+</array>
