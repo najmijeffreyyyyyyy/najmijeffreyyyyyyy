@@ -23,3 +23,13 @@
         <string>Value</string>
     </dict>
 </array>
+
+
+<array>
+    <string>Value 1</string>
+    <integer>2</integer>
+    <dict>
+        <key>Key</key>
+        <string>Value</string>
+    </dict>
+</array>
